@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ddca0cc-085c-4ac2-890b-be388724fef4" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5X_API_28" />
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../system1_4\exportToHTML" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="system1_34" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/system1_42/PracownikWypiszUrlopy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="379">
+              <caret line="94" column="42" selection-end-line="98" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#onCreateOptionsMenu#0;class#PracownikWypiszUrlopy#0" />
+                <element signature="method#onOptionsItemSelected#0;class#PracownikWypiszUrlopy#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/system1_42/PracownikWypiszZwolnienia.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="99" column="12" selection-start-line="99" selection-start-column="12" selection-end-line="99" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#onCreateOptionsMenu#0;class#PracownikWypiszUrlopy#0" />
+                <element signature="method#onOptionsItemSelected#0;class#PracownikWypiszUrlopy#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/system1_42/StronaStartowaPracownik.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="427">
+              <caret line="102" selection-start-line="102" selection-end-line="102" />
+              <folding>
+                <element signature="method#onCreateOptionsMenu#0;class#StronaStartowaPracownik#0" />
+                <element signature="method#onOptionsItemSelected#0;class#StronaStartowaPracownik#0" />
+                <element signature="e#680#949#0" />
+                <element signature="e#3005#3434#0" expanded="true" />
+                <element signature="e#3433#3434#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/system1_42/Podatki.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-495">
+              <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+              <folding>
+                <element signature="method#getSpoleczne_emerytalne#0;class#Podatki#0" />
+                <element signature="method#getSpoleczne_chorobowe#0;class#Podatki#0" />
+                <element signature="method#getSpoleczne_rentowe_pracowdawca#0;class#Podatki#0" />
+                <element signature="method#getSpoleczne_wypadkowe#0;class#Podatki#0" />
+                <element signature="method#getFundusz_gwarantowanych_swiadczen_pracowniczych#0;class#Podatki#0" />
+                <element signature="method#getSuma_kosztow_zatrudnienia#0;class#Podatki#0" />
+                <element signature="method#getKoszt_calkowity_zatrudnienia#0;class#Podatki#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/system1_42/AdminWypiszUrlopy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-134">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#onCreateOptionsMenu#0;class#AdminWypiszUrlopy#0" />
+                <element signature="method#onOptionsItemSelected#0;class#AdminWypiszUrlopy#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="valueResourceFile" />
+        <option value="resourceFile" />
+        <option value="layoutResourceFile_vertical" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>loginBtn</find>
+      <find>doIn</find>
+      <find>doInBa</find>
+      <find>type</find>
+      <find>System</find>
+      <find>android</find>
+      <find>andr</find>
+      <find>System.out</find>
+      <find>view</find>
+      <find>kod</find>
+      <find>nr_mi</find>
+      <find>Syste</find>
+      <find>premi</find>
+      <find>textView</find>
+      <find>setTitl</find>
+      <find>Sys</find>
+      <find>edit_user</find>
+      <find>policz</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/row_urlopy.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/admin_dodaj_urlop.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/admin_urlopy.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/admin_zwolnienia.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/admin_szczegoly_wynagrodzen.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/admin_dodaj_premie.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/system1_42/AdminUrlopy.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/system1_42/AdminZwolnienia.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/system1_42/AdminDodajZwolnienie.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/menu_usun.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/system1_42/AdminWypiszUrlopy.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/system1_42/AdminEdytujZwolnienie.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/system1_42/AdminDodajUrlop.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/row_historia_wynagrodzen.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/system1_42/PracownikHistoriaPrzychodow.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/system1_42/AdminEdytujUrlop.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/row_lista_obecnosci.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/system1_42/AdminWypiszObecnosci.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/admin_wynagrodzenia.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/system1_42/AdminWynagrodzenia.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/admin_dodaj_obecnosc.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/system1_42/AdminDodajObecnosc.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/system1_42/AdminSzczegolyWynagrodzen.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/system1_42/PracownikPredykcjaSzczegoly.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/row_wynagrodzenia_lista.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/system1_42/Podatki.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/system1_42/PracownikPredykcja.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/system1_42/Premie.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/system1_42/AsyncWstawWynagrodzenia.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/row_obecnosci.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/pracownik_lista_obecnosci.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/system1_42/PracownikListaObecnosci.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/system1_42/AdminWypiszWynagrodzenia.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/system1_42/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/system1_42/StronaStartowaAdmin.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/system1_42/AdminDodajPracownika.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/system1_42/DatabaseSelect.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/system1_42/AdminEdytujPracownika.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/system1_42/AdminEdytujUzytkownika.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/system1_42/AdminEdytujFunkcje.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/system1_42/AdminWypiszZwolnienia.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/strona_startowa_pracownik.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/row_pracownik_urlopy.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/brak.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/system1_42/PracownikWypiszUrlopy.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/pracownik_urlopy.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/system1_42/PracownikWypiszZwolnienia.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/system1_42/StronaStartowaPracownik.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1508" />
+    <option name="y" value="-6" />
+    <option name="width" value="1620" />
+    <option name="height" value="869" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="system1_34" type="b2602c69:ProjectViewProjectNode" />
+              <item name="system1_4" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="system1_34" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="system1_34" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="system1_34" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="system1_42" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="system1_34" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="system1_34" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="system1_34" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="values" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Nexus_5X_API_28" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-12-03T23:17:40.454Z" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="D:/.Kopie zapasowe inżynierki" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Bondi\Desktop\system1_4\app\src\main\res\layout\admin_xmls" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.system1_34" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.system1_42" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Bondi\Desktop\system1_4\app\src\main\res\layout" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="?" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ddca0cc-085c-4ac2-890b-be388724fef4" name="Default Changelist" comment="" />
+      <created>1569864270469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569864270469</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1927" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49295774" visible="true" weight="0.23481782" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" sideWeight="0.5070422" side_tool="true" weight="0.21700405" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.49959514" weight="0.41563055" />
+      <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.4979757" weight="0.54706925" />
+      <window_info anchor="bottom" id="TODO" order="2" weight="0.3285968" />
+      <window_info anchor="bottom" id="Debug" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5020243" side_tool="true" weight="0.26287743" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.4979757" weight="0.30195382" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.3285968" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" weight="0.32955465" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Preview" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Assistant" order="6" weight="0.32955465" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/system1_42/AdminWypiszObecnosci.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/row_lista_obecnosci.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/admin_dodaj_urlop.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="53" column="26" lean-forward="true" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/system1_42/DataGetter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-338">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/admin_wynagrodzenia.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/system1_42/AdminDodajObecnosc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="156" lean-forward="true" selection-start-line="156" selection-end-line="156" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#onCreateOptionsMenu#0;class#AdminDodajObecnosc#0" />
+            <element signature="method#onOptionsItemSelected#0;class#AdminDodajObecnosc#0" />
+            <element signature="e#3471#5116#0" expanded="true" />
+            <element signature="e#5115#5116#0" expanded="true" />
+            <element signature="e#5101#6027#0" expanded="true" />
+            <element signature="e#6026#6027#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/admin_dodaj_obecnosc.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="70" column="46" selection-start-line="70" selection-start-column="46" selection-end-line="70" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/system1_42/AdminDodajZaang.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="126" column="11" lean-forward="true" selection-start-line="126" selection-start-column="11" selection-end-line="126" selection-end-column="11" />
+          <folding>
+            <element signature="method#onCreateOptionsMenu#0;class#AdminDodajZaang#0" />
+            <element signature="method#onOptionsItemSelected#0;class#AdminDodajZaang#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/row_wynagrodzenia_lista.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="99" column="8" lean-forward="true" selection-start-line="99" selection-start-column="8" selection-end-line="104" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/system1_42/AdminSzczegolyWynagrodzen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#onCreateOptionsMenu#0;class#AdminSzczegolyWynagrodzen#0" />
+            <element signature="method#onOptionsItemSelected#0;class#AdminSzczegolyWynagrodzen#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/pracownik_predykcja.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="46" lean-forward="true" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/system1_42/PracownikPredykcjaSzczegoly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+          <folding>
+            <element signature="method#onCreateOptionsMenu#0;class#PracownikPredykcjaSzczegoly#0" />
+            <element signature="method#onOptionsItemSelected#0;class#PracownikPredykcjaSzczegoly#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="60" column="23" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/row_obecnosci.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/pracownik_lista_obecnosci.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/admin_pracownicy.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/system1_42/AdminWypiszUzytkownicy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="29" column="56" selection-start-line="29" selection-start-column="56" selection-end-line="29" selection-end-column="56" />
+          <folding>
+            <element signature="method#onCreateOptionsMenu#0;class#AdminWypiszUzytkownicy#0" />
+            <element signature="method#onOptionsItemSelected#0;class#AdminWypiszUzytkownicy#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/system1_42/AdminWynagrodzenia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
+          <folding>
+            <element signature="method#onCreateOptionsMenu#0;class#AdminWynagrodzenia#0" />
+            <element signature="method#onOptionsItemSelected#0;class#AdminWynagrodzenia#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/system1_42/StronaStartowaAdmin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="48" column="62" selection-start-line="48" selection-start-column="62" selection-end-line="48" selection-end-column="62" />
+          <folding>
+            <element signature="method#onCreateOptionsMenu#0;class#StronaStartowaAdmin#0" />
+            <element signature="method#onOptionsItemSelected#0;class#StronaStartowaAdmin#0" />
+            <element signature="e#1474#1902#0" expanded="true" />
+            <element signature="e#1901#1902#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/system1_42/AdminWypiszWynagrodzenia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="32" column="56" selection-start-line="32" selection-start-column="56" selection-end-line="32" selection-end-column="56" />
+          <folding>
+            <element signature="method#onCreateOptionsMenu#0;class#AdminWypiszWynagrodzenia#0" />
+            <element signature="method#onOptionsItemSelected#0;class#AdminWypiszWynagrodzenia#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/system1_42/DatabaseSelect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-286">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="method#onPostExecute#0;class#DatabaseSelect#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/system1_42/AdminDodajPracownika.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="176" column="47" lean-forward="true" selection-start-line="176" selection-start-column="47" selection-end-line="176" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#onCreateOptionsMenu#0;class#AdminDodajPracownika#0" />
+            <element signature="method#onOptionsItemSelected#0;class#AdminDodajPracownika#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/admin_dodaj_pracownika.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/system1_42/AdminEdytujPracownika.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="225" column="51" lean-forward="true" selection-start-line="225" selection-start-column="51" selection-end-line="225" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#onCreateOptionsMenu#0;class#AdminEdytujPracownika#0" />
+            <element signature="method#onOptionsItemSelected#0;class#AdminEdytujPracownika#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/system1_42/AdminEdytujUzytkownika.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="129" column="20" selection-start-line="129" selection-start-column="20" selection-end-line="129" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#onCreateOptionsMenu#0;class#AdminEdytujUzytkownika#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/system1_42/AdminEdytujFunkcje.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="127" lean-forward="true" selection-start-line="127" selection-end-line="127" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#onCreateOptionsMenu#0;class#AdminEdytujFunkcje#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/system1_42/AdminDodajUrlop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="103" column="49" selection-start-line="103" selection-start-column="35" selection-end-line="103" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#onCreateOptionsMenu#0;class#AdminDodajUrlop#0" />
+            <element signature="method#onOptionsItemSelected#0;class#AdminDodajUrlop#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/system1_42/AdminEdytujZwolnienie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-279">
+          <caret line="44" column="59" selection-start-line="44" selection-start-column="59" selection-end-line="44" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#onCreateOptionsMenu#0;class#AdminEdytujZwolnienie#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/system1_42/AdminEdytujUrlop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="142" column="70" selection-start-line="142" selection-start-column="70" selection-end-line="142" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#onCreateOptionsMenu#0;class#AdminEdytujUrlop#0" />
+            <element signature="method#onOptionsItemSelected#0;class#AdminEdytujUrlop#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/admin_zwolnienia.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/system1_42/AdminWypiszZwolnienia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#onCreateOptionsMenu#0;class#AdminWypiszZwolnienia#0" />
+            <element signature="method#onOptionsItemSelected#0;class#AdminWypiszZwolnienia#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/system1_42/AsyncWstawWynagrodzenia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="92" column="23" selection-start-line="92" selection-start-column="23" selection-end-line="92" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/system1_42/Premie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/system1_42/PracownikListaObecnosci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="55" column="13" lean-forward="true" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+          <folding>
+            <element signature="method#onCreateOptionsMenu#0;class#PracownikListaObecnosci#0" />
+            <element signature="method#onOptionsItemSelected#0;class#PracownikListaObecnosci#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/system1_42/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="57" column="62" selection-start-line="57" selection-start-column="62" selection-end-line="57" selection-end-column="62" />
+          <folding>
+            <element signature="method#onCreate#0;class#MainActivity#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/admin_urlopy.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="65" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/strona_startowa_pracownik.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/row_urlopy.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="82" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/row_pracownik_urlopy.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="49" column="48" selection-start-line="49" selection-start-column="48" selection-end-line="49" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/system1_42/PracownikPredykcja.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="38" selection-end-column="5" />
+          <folding>
+            <element signature="method#onCreateOptionsMenu#0;class#PracownikPredykcja#0" />
+            <element signature="method#onOptionsItemSelected#0;class#PracownikPredykcja#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/system1_42/AdminWypiszUrlopy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-134">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#onCreateOptionsMenu#0;class#AdminWypiszUrlopy#0" />
+            <element signature="method#onOptionsItemSelected#0;class#AdminWypiszUrlopy#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/brak.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/system1_42/PracownikWypiszUrlopy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="94" column="42" selection-end-line="98" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#onCreateOptionsMenu#0;class#PracownikWypiszUrlopy#0" />
+            <element signature="method#onOptionsItemSelected#0;class#PracownikWypiszUrlopy#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/pracownik_urlopy.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/system1_42/PracownikWypiszZwolnienia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="99" column="12" selection-start-line="99" selection-start-column="12" selection-end-line="99" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#onCreateOptionsMenu#0;class#PracownikWypiszUrlopy#0" />
+            <element signature="method#onOptionsItemSelected#0;class#PracownikWypiszUrlopy#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="50" column="60" selection-start-line="50" selection-start-column="60" selection-end-line="50" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/system1_42/StronaStartowaPracownik.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
+          <folding>
+            <element signature="method#onCreateOptionsMenu#0;class#StronaStartowaPracownik#0" />
+            <element signature="method#onOptionsItemSelected#0;class#StronaStartowaPracownik#0" />
+            <element signature="e#680#949#0" />
+            <element signature="e#3005#3434#0" expanded="true" />
+            <element signature="e#3433#3434#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/system1_42/Podatki.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-495">
+          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+          <folding>
+            <element signature="method#getSpoleczne_emerytalne#0;class#Podatki#0" />
+            <element signature="method#getSpoleczne_chorobowe#0;class#Podatki#0" />
+            <element signature="method#getSpoleczne_rentowe_pracowdawca#0;class#Podatki#0" />
+            <element signature="method#getSpoleczne_wypadkowe#0;class#Podatki#0" />
+            <element signature="method#getFundusz_gwarantowanych_swiadczen_pracowniczych#0;class#Podatki#0" />
+            <element signature="method#getSuma_kosztow_zatrudnienia#0;class#Podatki#0" />
+            <element signature="method#getKoszt_calkowity_zatrudnienia#0;class#Podatki#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

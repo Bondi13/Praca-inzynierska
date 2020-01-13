@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/button_pracownicy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PRACOWNICY" />
+
+    <Button
+        android:id="@+id/button_uzytkownicy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="konta użytkowników" />
+
+    <Button
+        android:id="@+id/button_funkcje"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="funkcje" />
+
+    <Button
+        android:id="@+id/button_urlopy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="urlopy" />
+
+    <Button
+        android:id="@+id/button_zwolnienia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="zwolnienia" />
+
+    <Button
+        android:id="@+id/button_wynagrodzenia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="wynagrodzenia" />
+
+</LinearLayout>

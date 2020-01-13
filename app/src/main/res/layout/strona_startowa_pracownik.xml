@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/button_historia_przychodow"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="HISTORIA PRZYCHODÓW" />
+
+    <Button
+        android:id="@+id/button_predykcja"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PREDYKCJA PRZYCHODÓW" />
+
+    <Button
+        android:id="@+id/button_lista_obecnosci"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LISTA OBECNOŚCI" />
+
+    <Button
+        android:id="@+id/button_pracownik_urlopy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="urlopy" />
+
+    <Button
+        android:id="@+id/button_pracownik_zwolnienia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="zwolnienia" />
+
+</LinearLayout>
